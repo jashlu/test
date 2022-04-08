@@ -1,1 +1,4 @@
 
+Movie DISPLAY
+
+next button => 
